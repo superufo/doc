@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-desktop",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scene/Main.fire",orientation:"landscape",jsList:["assets/Script/plugin/base64.js","assets/Script/plugin/crypto-js.js","assets/Script/plugin/md5.js","assets/Script/plugin/sha1.js"]};
